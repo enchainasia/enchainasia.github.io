@@ -4,7 +4,7 @@ name: ENChain.Asia
 description: Bring you into the world of Blockchain and enlighten your extraordinary creativity.
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://yangbalu.github.io
+url: https://blog.enchain.asia
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
